@@ -1,0 +1,253 @@
+.header1 {
+	font-family: Arial;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #7BC258;
+}
+.header2 {
+	font-family: Arial;
+	font-size: 14px;
+	font-style: italic;
+	color: #000;
+}
+.bodytext {
+	font-family: arial;
+	font-size: 12px;
+	color: #000;
+}
+.headerlinks {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+}
+.toplinks {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #7BC258;
+	line-height: 26px;
+}
+body {
+	background-image: url("./../images/background.jpg");
+	background-repeat: no-repeat;
+	background-position:left;
+	background-attachment:fixed;
+}
+#Date {
+	font-family: Arial;
+	font-size: 12px;
+	color: #39B549;
+}
+.header1 {
+	font-family: arial;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: bold;
+	color: #7BC258;
+}
+.style7 {font-family: arial; font-size: 12px; color: #000; font-weight: bold; }
+.style8 {color: red}
+.style9 {
+	font-size: 13px
+}
+.style34 {	font-family: arial;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.container {
+    max-width: 876px;
+}
+
+img{
+	vertical-align:baseline;
+}
+
+.logo > h1 {
+    text-align: center;
+}
+
+.search {
+   max-width: 876px;
+   padding: 5px 4px 7px;
+}
+.home-slider {
+    padding: 0 0 0 14px;
+}
+
+.col-md-8 form {
+    text-align: right;
+}
+.col-md-4.date-js {
+    color: #7ac25b;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 6px;
+}
+.left-side {
+    margin-top: 3px;
+}
+.sidebar {
+	margin-top:3px;
+	font-size:12px;
+	min-height:700px;
+}
+
+.right-sidebar {
+	margin-top:3px;
+	font-size:12px;
+	min-height:700px;
+}
+
+.right-sidebar .row .inner {
+    background: #fff none repeat scroll 0 0;
+    margin-right: 12px;
+    min-height: 2264px;
+    padding-bottom: 40px;
+	padding-top:34px;
+}
+.right-sidebar.about .row .inner {
+    background: #fff none repeat scroll 0 0;
+    margin-right: 12px;
+    min-height: 1068px;
+    padding-bottom: 40px;
+    padding-top: 34px;
+}
+.style9 > a {
+    color: #000;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.inner a{
+	font-size:12px;
+	text-decoration:underline;
+	color:#000;
+}
+
+.right-sidebar.growth .row .inner {
+    min-height: 1756px;
+}
+.right-sidebar .row .inner .bodytext a {
+    color: #000;
+    font-size: 12px;
+	text-decoration:underline;
+}
+
+.row.bottom-home {
+    margin-top: 5px;
+	font-size:12px;
+}
+.row.bottom-home a {
+	color:#000;
+	font-family:arial;
+	text-decoration:underline;
+}
+
+.testimonial-home a {
+	color:#000;
+	font-family:arial;
+	text-decoration:underline;
+	font-size:12px;
+}
+
+
+
+.inner {
+    background: #fff none repeat scroll 0 0;
+    /* border: 1px solid; */
+    margin: 0 4px 4px -1px;
+    min-height: 523px;
+    padding: 0 15px;
+}
+.inner h1 {
+    text-align: center;
+	line-height:18px;
+}
+.sidebar .row .inner {
+    padding-bottom: 40px;
+}
+
+
+.head-hm {
+    text-align: center;
+	padding-top:18px;
+}
+.testimonial-home .row .inner, .blog-home .row .inner {
+    min-height: 1306px;
+}
+/* 
+.home-left-bottom {
+    background: #fff none repeat scroll 0 0;
+    margin-top: 5px;
+    padding-bottom: 20px;
+}
+.home-right-bottom {
+    background: #fff none repeat scroll 0 0;
+    margin-left: 4px;
+    margin-top: 5px;
+    width: 49.5%;
+} */
+
+.testimonial {
+    background: #fff none repeat scroll 0 0;
+    margin-top: 5px;
+}
+
+.blog-home {
+    background: #fff none repeat scroll 0 0;
+    /* margin: 5px 0 0 4px;
+    width: 49.5%; */
+}
+
+@media (min-width:992px) { 
+    .sidebars {
+        padding-left: 10px;
+        border: 0px; /* remove shadow classes here */
+    }
+
+    .sidebars .inner {
+        border: 1px solid #777;  /* add shadow classes here */
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+.prime,
+.sidebars{
+    border: 1px solid #777;
+    font-size: 150%;
+}
+
+.left-side .row .inner {
+    margin-left: 13px;
+	padding-bottom: 14px;
+}
+
+.sidebar .row .inner {
+    margin-right: 12px;
+    padding-bottom: 40px;
+}
+
+.home-left-bottom .row .inner .col-md-3 img {
+    bottom: 0;
+    margin-top: 125px;
+}
+
+.home-right-bottom .row .inner .col-md-3 img {
+    bottom: 0;
+    margin-top: 125px;
+}
+
+.header2{
+	font-weight:bolder;
+}
+
+.testimonial-home .row .inner .header1 {
+    padding-top: 32px;
+}
+
+.blog-home .row .inner .header1 {
+    padding-top: 32px;
+}
