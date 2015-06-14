@@ -31,7 +31,7 @@
 }
 body {
 	background-image: url("./../images/background.jpg");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-position:left;
 	background-attachment:fixed;
 }
@@ -250,4 +250,139 @@ img{
 
 .blog-home .row .inner .header1 {
     padding-top: 32px;
+}
+
+.compare-product .row .inner .bodytext > a {
+    color: #003300;
+}
+
+hr {
+    border-bottom: 0.5px solid;
+}
+
+
+
+.right-sidebar.compare-product .row .inner {
+    background: #fff none repeat scroll 0 0;
+    margin-right: 12px;
+    min-height: 2479px;
+    padding-bottom: 40px;
+    padding-top: 34px;
+}
+
+.right-sidebar.athlete .row .inner {
+    min-height: 1095px;
+}
+
+.right-sidebar.guarantee .row .inner {
+    min-height: 1222px;
+}
+
+.style7 {font-family: arial; font-size: 12px; color: #000; font-weight: bold; }
+.style20 {
+	font-size: 12px;
+	font-family: arial;
+}
+.style22 {color: #000}
+.style25 {color: #006600}
+.style26 {font-size: 12px}
+.style29 {font-family: arial}
+.style30 {color: #000; font-family: arial;}
+.style31 {font-style: italic; color: #7BC258; font-weight: bold; font-size: 13px; }
+.style32 {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #7BC258;
+	line-height: 26px;
+	font-style: italic;
+}
+.style33 {font-family: Arial; font-size: 16px; font-weight: bold; color: #7BC258; line-height: 26px; }
+.style34 {
+	font-family: arial;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: bold;
+}
+.style37 {color: #FF0000; font-weight: bold; font-size: 26px;}
+p{
+	font-size:12px;
+}
+
+.product-1 {
+    border: 2px solid;
+    margin: 0;
+    min-height: 340px;
+	padding:15px 8px 0 8px;
+}
+
+.product-2 {
+    border: 2px solid;
+    margin: 0;
+    min-height:130px;
+    padding: 6px;
+}
+
+.product-3 {
+    border: 2px solid;
+    margin: 0;
+    min-height:300px;
+    padding: 6px;
+}
+
+.middle-box > div {
+    background: #7bc258 none repeat scroll 0 0;
+    border: 2px solid;
+}
+
+.col-md-3.style26 img {
+    border: 1px solid;
+}
+
+.col-md-4.style26 img {
+    border: 1px solid;
+}
+
+.col-md-6.product-3 img {
+    border: 1px solid;
+}
+
+.right-sidebar.order-hgh-right .row .inner {
+    min-height: 2088px;
+}
+
+.row.order-hgh2 {
+    padding: 15px;
+}
+
+.col-md-8.style26 > p {
+    padding: 0 0 0 6px;
+}
+
+.col-md-6.product-3 div {
+    padding: 0 0 8px;
+}
+
+.bodytext > a {
+    color: #003300;
+}
+
+.sitemaps a{
+	color: #003300;
+}
+
+.right-sidebar.sitmaps-right .row .inner {
+    min-height: 4408px;
+}
+
+.right-sidebar.current-state .row .inner {
+    min-height: 1416px;
+}
+
+.right-sidebar.default-page .row .inner {
+    min-height: 1347px;
+}
+
+.right-sidebar.growth-hormone .row .inner {
+    min-height: 782px;
 }
